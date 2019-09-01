@@ -4,5 +4,4 @@
 def fib(n):
     if n < 2:
         return n
-    # TODO: fix
     return fib(n - 1) + fib(n - 1)
