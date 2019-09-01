@@ -6,7 +6,3 @@ def fib(n):
         return n
     # TODO: fix
     return fib(n - 1) + fib(n - 1)
-
-def memoized_fib(n):
-    # TODO: implement
-    pass
